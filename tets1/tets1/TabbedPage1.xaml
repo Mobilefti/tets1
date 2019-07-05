@@ -11,5 +11,6 @@
   <ContentPage Title="Tab 2" />
   <ContentPage Title="Tab 3" />
      <ContentPage Title="Tab 4"  />
+    <ContentPage Title="Tab 5"  />
                
 </xf:BottomBarPage>
